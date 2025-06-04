@@ -35,7 +35,7 @@ This repository is a collection of my deep learning experiments, primarily using
 ### Website Classification ANN
 
 - **Description**: A PyTorch-based ANN to classify websites into 16 categories (e.g., Sports, Education, Business) using text features from CountVectorizer. Uses a deeper 5-layer ANN with ReLU activations and dropout to prevent overfitting, trained for 50 epochs.
-- **Notebook**: website-classification-using-ann.ipynb
+- **Notebook**: [website-classification-using-ann.ipynb](website-classification-using-ann.ipynb)
 - **Dataset**: Website Classification from Kaggle (\~1400 samples, 16 categories).
 - **Model Architecture**:
   - Input: 5000 features (CountVectorizer)
