@@ -28,7 +28,7 @@ This repository is a collection of my deep learning experiments, primarily using
   - Optimizer: SGD (learning rate = 0.001)
   - Loss: CrossEntropyLoss
 - **Results**:
-  - Test Accuracy: 81.7% (after 50 epochs)
+  - Test Accuracy: 87.0% (after 5 epochs)
   - Average Test Loss: 0.514
 - **Visualizations**: Displays sample images from FashionMNIST with predicted labels.
 
