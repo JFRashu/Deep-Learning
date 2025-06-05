@@ -50,5 +50,5 @@ This repository is a collection of my deep learning experiments, primarily using
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/DeepLearningProjects.git
+   git clone https://github.com/JFRashu/Deep-Learning.git
    cd DeepLearningProjects
